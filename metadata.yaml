@@ -1,0 +1,30 @@
+_repo: Na--mier--1863_27178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gnatowski, Jan
+    aliases:
+    - Lada, Jan
+    - Łada, Jan
+    birthdate: 1855
+    deathdate: 1925
+    gutenberg_agent_id: '32514'
+    url: http://www.gutenberg.org/2009/agents/32514
+    wikipedia: http://pl.wikipedia.org/wiki/Jan_Gnatowski
+description: ''
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27178'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Polish fiction'
+- !lcc 'PG'
+title: Na śmierć, 1863
+url: http://www.gutenberg.org/ebooks/27178
