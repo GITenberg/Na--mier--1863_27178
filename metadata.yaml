@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32514
     wikipedia: http://pl.wikipedia.org/wiki/Jan_Gnatowski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27178#Na--mier--1863
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
 identifiers:
